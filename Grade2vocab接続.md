@@ -4,6 +4,7 @@
 - Moreover
 - Furthermore
 - In addition
+- Additionally
 - What is more
 
 ### 結局は，最後には
